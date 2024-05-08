@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zarkon8509
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning C++/SFML
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on anything i can do...
-- 📫 How to reach me Twitter @zarkon85
+- 📫 How to reach me on X @zarkon85
 
 bye
 
